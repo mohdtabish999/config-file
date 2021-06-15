@@ -1,0 +1,28 @@
+{
+  id 2,
+  message Shirt,
+  sourceLanguage en,
+  targetLanguage es,
+  Flower [
+    {
+      name Poppy,
+      color RED,
+      petals 9
+    },
+    {
+      name Poppy,
+      color RED,
+      petals 9
+    }
+  ],
+  authors [
+    {
+      firstName John,
+      secondName Doe
+    },
+    {
+      firstName Marry,
+      secondName Boe
+    }
+  ]
+}
